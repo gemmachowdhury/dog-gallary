@@ -1,0 +1,28 @@
+{
+  "name": "dog-gallary",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "next": "14.2.4",
+    "next-gallery": "^2.1.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-grid-gallery": "^1.0.1",
+    "react-image-gallery": "^1.3.0",
+    "react-photo-album": "^2.4.1",
+    "react-visual-grid": "^0.9.5"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
